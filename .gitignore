@@ -1,0 +1,3 @@
+# Project exclude paths
+/crm/target/
+/crm-mybatis-generator/target/
